@@ -1,0 +1,55 @@
+? possible feature / chosing out of many
+?? unsure
+- this should be there / no other idea came to mind
+% alternative to -
+
+
+###########################################
+################  IDEAS  ##################
+###########################################
+
+beginning   ? start with a property which is generating some revenue 
+            ? start with some money to buy a property (offices for example)
+            ? start with a flat and lend just a room
+
+properties  ? flats - all sizes, from one room only with shared kitchen and bathroom to huge apartments
+            ? parkingspaces
+            ? officespaces
+            ? houses
+            ? shops
+            ? restaurants ? hiring staff
+            ? prefabs
+            ? shopping centers
+            ? skyscrapers
+            ?? mega structures
+
+time scale  - months
+            ? skipping time till end of contract
+
+money   ? € ? Kč
+        ? land value - distance from "center of city"
+        ? center of town = more expensive ; outskirts = less expensive
+        ? points of interests nearby will increase value
+        ? paying taxes - simplified
+        ?? donating to charity or creating non-profit charity
+
+randomness  ? random generation of properties with according prices to land value
+            ? random names
+            ? player can search for specific properties but will take time and money
+
+? unpleasant situations
+? creating contracts
+
+###########################################
+############  GAME STRUCTURE  #############
+###########################################
+
+- properties
+        - overview of all
+        - buying new ones
+- property
+        - close a new deal
+        - statistics
+        - edit deals
+        - alert if contract is about to end
+        - stuff hiring - if property requiress staff to run (restaurants)
